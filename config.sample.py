@@ -1,2 +1,2 @@
-port=''
-name=''
+port='1727'
+name='xsky.dev'
