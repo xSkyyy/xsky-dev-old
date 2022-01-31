@@ -1,5 +1,8 @@
 ## xSky-dev
 
+# These files are old. The website has been redesigned since then and is now run with a Quart web app.
+[New repo](https://github.com/xskyyy/xsky-dev)
+
 This repo contains the files keeping [my website](https://xsky.dev) online.
 
 An nginx config can be found in the extras folder
